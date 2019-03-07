@@ -1,0 +1,448 @@
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\ApplicationInsights.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.rsp
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.rsp
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.AppContext.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Console.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.rsp
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Unity.Abstractions.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Unity.AspNet.WebApi.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Unity.Container.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\WebActivatorEx.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\WebGrease.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csprojAssemblyReference.cache
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CoreCompileInputs.cache
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CopyComplete
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\NLog.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\NLog.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.API\bin\NLog.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\ApplicationInsights.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.rsp
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.rsp
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.AppContext.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Console.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Compression.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Claims.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.ValueTuple.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.rsp
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.ApplicationInsights.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.Abstractions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.AspNet.WebApi.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.Container.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\WebActivatorEx.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\WebGrease.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.xml
+C:\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CopyComplete
+C:\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\NLog.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\ApplicationInsights.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.API.dll.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.API.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csc.exe
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csc.exe.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csc.rsp
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csi.exe
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csi.exe.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\csi.rsp
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.AppContext.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Console.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.IO.Compression.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Claims.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.ValueTuple.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\vbc.exe
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\vbc.exe.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\vbc.rsp
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Antlr3.Runtime.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Application.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Domain.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.Web.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.ApplicationInsights.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Net.Http.Formatting.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Helpers.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Http.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Http.WebHost.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Mvc.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Optimization.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Razor.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.Razor.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Unity.Abstractions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Unity.AspNet.WebApi.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Unity.Container.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\WebActivatorEx.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\WebGrease.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\NLog.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Application.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Domain.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Net.Http.Formatting.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Http.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Http.WebHost.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Helpers.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Mvc.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Optimization.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.Razor.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Web.WebPages.Razor.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Antlr3.Runtime.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.AI.Web.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\bin\NLog.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CopyComplete
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\ApplicationInsights.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.API.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.exe.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csc.rsp
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.exe.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\csi.rsp
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.AppContext.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Console.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.exe.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\vbc.rsp
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.Abstractions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.AspNet.WebApi.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Unity.Container.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\WebActivatorEx.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\WebGrease.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Application.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Data.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Domain.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\GNB.Transactions.Entities.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Net.Http.Formatting.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Http.WebHost.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Newtonsoft.Json.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Helpers.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Mvc.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Optimization.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.Razor.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Antlr3.Runtime.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.AI.Web.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\bin\NLog.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csprojAssemblyReference.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CoreCompileInputs.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.csproj.CopyComplete
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.API\obj\Debug\GNB.Transactions.API.pdb

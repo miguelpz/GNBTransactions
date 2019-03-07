@@ -1,0 +1,30 @@
+     --------------Debug----2018-11-22 12:20:12.5746------------
+     
+     Call Site: GNB.Transactions.Data.Connection.getConnection
+     Exception Type: System.Net.WebException
+     Exception Message: No es posible conectar con el servidor remoto
+     Exception Trace:    en System.Net.HttpWebRequest.GetResponse()
+   en GNB.Transactions.Data.Connection.connectTo(String uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 89
+   en GNB.Transactions.Data.Connection.getConnection(Uris uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 52
+     Additional Info: Error Obtain JSON
+
+     --------------Debug----2018-11-22 12:22:21.9506------------
+     
+     Call Site: GNB.Transactions.Data.Connection.getConnection
+     Exception Type: System.Net.WebException
+     Exception Message: No es posible conectar con el servidor remoto
+     Exception Trace:    en System.Net.HttpWebRequest.GetResponse()
+   en GNB.Transactions.Data.Connection.connectTo(String uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 89
+   en GNB.Transactions.Data.Connection.getConnection(Uris uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 52
+     Additional Info: Error Obtain JSON
+
+     --------------Debug----2018-11-22 12:24:26.4980------------
+     
+     Call Site: GNB.Transactions.Data.Connection.getConnection
+     Exception Type: System.Net.WebException
+     Exception Message: No es posible conectar con el servidor remoto
+     Exception Trace:    en System.Net.HttpWebRequest.GetResponse()
+   en GNB.Transactions.Data.Connection.connectTo(String uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 89
+   en GNB.Transactions.Data.Connection.getConnection(Uris uri) en C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\Connection.cs:línea 52
+     Additional Info: Error Obtain JSON
+

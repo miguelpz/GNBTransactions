@@ -1,0 +1,56 @@
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csprojAssemblyReference.cache
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CoreCompileInputs.cache
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CopyComplete
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.pdb
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.config
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.dll
+C:\Users\Arles\source\repos\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.config
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CopyComplete
+C:\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\NLog.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\NLog.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\bin\Debug\NLog.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CopyComplete
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Data.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\bin\Debug\NLog.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csprojAssemblyReference.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CoreCompileInputs.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.csproj.CopyComplete
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Data\obj\Debug\GNB.Transactions.Data.pdb

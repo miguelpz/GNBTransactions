@@ -1,0 +1,486 @@
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.config
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\ApplicationInsights.config
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll.config
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\netstandard.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.AppContext.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.Concurrent.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.Specialized.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Console.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Data.Common.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Process.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Drawing.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.Calendars.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Pipes.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Expressions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Parallel.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Queryable.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.NameResolution.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Ping.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Requests.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Security.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ObjectModel.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.Reader.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.Writer.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Handles.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Numerics.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Claims.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Principal.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Thread.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Timer.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ValueTuple.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XDocument.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Castle.Core.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\WebActivatorEx.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.Container.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll.config
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Castle.Core.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CopyComplete
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.dll
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.pdb
+C:\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\NLog.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\ApplicationInsights.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\netstandard.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.AppContext.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Collections.Concurrent.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Collections.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Collections.Specialized.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Console.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Data.Common.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Process.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Drawing.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Globalization.Calendars.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Globalization.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.Pipes.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Linq.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Linq.Expressions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Linq.Parallel.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Linq.Queryable.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Http.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.NameResolution.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Ping.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Requests.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Security.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ObjectModel.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Reflection.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Reflection.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Reflection.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Resources.Reader.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Resources.Writer.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Handles.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Numerics.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Claims.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.Principal.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Thread.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Timer.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.ValueTuple.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.XDocument.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Castle.Core.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Moq.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\WebActivatorEx.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Unity.Container.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Http.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\NLog.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll.config
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Castle.Core.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Moq.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Moq.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Http.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\NLog.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csprojAssemblyReference.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CoreCompileInputs.cache
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CopyComplete
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.dll
+C:\Examen\GNBTransactions - copia\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Tests.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\netstandard.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.AppContext.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Console.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Data.Common.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.Pipes.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Ping.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Requests.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Security.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ObjectModel.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.Reader.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Resources.Writer.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Claims.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.Principal.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Thread.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Timer.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Castle.Core.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.Container.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Unity.AspNet.WebApi.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.API.dll.config
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Application.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Data.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Domain.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\GNB.Transactions.Entities.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Castle.Core.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Moq.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\NLog.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csprojAssemblyReference.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CoreCompileInputs.cache
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.csproj.CopyComplete
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.dll
+C:\Users\CTA\Desktop\Miguel Angel\Examen\GNBTransactions\GNB.Transactions.Tests\obj\Debug\GNB.Transactions.Tests.pdb
